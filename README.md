@@ -148,4 +148,6 @@ To get updates from research workflow, please follow us on social networks and s
 
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
 
+<sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
+
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
