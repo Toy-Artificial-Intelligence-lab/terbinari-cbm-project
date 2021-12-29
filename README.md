@@ -76,7 +76,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
  
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-system.png" width="600">
  
   - Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
@@ -88,7 +88,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  **Mechanism** 
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device.png" width="600">
 
  [***Robot eye contact - Terbinari CBM (conv 7)***](https://youtu.be/H2O3pTNejW0)
     
@@ -127,6 +127,10 @@ The development aims to create and investigate synthetic entity architecture and
 Invent custom assistive educational, therapeutic, social and humanitarian, interactive and robotic solution prototype, adaptable for specialized use with modeling and simulation conversational setup via a human-machine interface, behavior observation, study, development, optimization, and accumulation potentially derivative experiment.
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
+
+## Download markdown pdf
+
+📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-terbinari-md.pdf)
 
 ## 💖 Support project
 
