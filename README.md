@@ -122,7 +122,7 @@ The development aims to create and investigate synthetic entity architecture and
 
 [***Interactive robot - Terbinari CBM (conv 3)***](https://youtu.be/tSrj2ZdIo80)
 
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80&rel=0)
+ [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80&rel=0)
 
 The conceptual vision of the research is to invent and implement prototype design of "AI robotic biome" application families infrastructure interactive network, embodied by artificial psychophysical mechanism processes and experimental environment installation interface.
 
@@ -132,7 +132,7 @@ Invent custom assistive educational, therapeutic, social and humanitarian, inter
 
 ## Download markdown pdf
 
-📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-terbinari-md.pdf)
+📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-terbinari-cbm-pro.pdf)
 
 ## 💖 Support project
 
